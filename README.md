@@ -18,8 +18,9 @@
 3. Functions，放置些方便实用的模板
 
 ### 软件截图
-![image](https://github.com/miirnigs/Authorisation-System/blob/Main/img/1.png)
-![image](https://github.com/miirnigs/Authorisation-System/blob/Main/img/2.png)
+![image](https://github.com/miirnigs/Authorisation-System/blob/Main/img/ServerMain.png)
+![image](https://github.com/miirnigs/Authorisation-System/blob/Main/img/ServerPort.png)
+![image](https://github.com/miirnigs/Authorisation-System/blob/Main/img/ClientMain.png)
 
 ### 版权说明
 该项目签署了Apache-2.0 授权许可，详情请参阅 [LICENSE](https://github.com/miirnigs/Authorisation-System/blob/Main/LICENSE)
