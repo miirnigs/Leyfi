@@ -1,0 +1,59 @@
+#======================================
+# .gitignore
+# 
+# 2022-09-13 created by miirnigs
+#======================================
+.git
+.vs
+
+#--------------------------
+# ignored files for vc++
+# 2022-09-13
+#--------------------------
+UpgradeLog.XML
+~*
+*~
+*.7z
+*.a
+*.aps
+*.clw
+*.dll
+*.dsp
+*.dsw
+*.exe
+*.exp
+*.lastbuildstate
+*.lib
+*.log
+*.tlog
+*.idb
+*.ilk
+*.ncb
+*.obj
+*.opensdf
+*.pdb
+*.pyc
+*.rar
+*.res
+*.sdf
+*.so
+*.suo
+*.user
+*.zip
+
+#--------------------------
+# ignored dirs for vc++
+#--------------------------
+Debug.win32/
+Release.win32/
+*.tlog/
+_UpgradeReport_Files/
+ipch/
+tmp/
+temp/
+~*/
+target/
+build/
+Debug/
+Release/
+x64/
